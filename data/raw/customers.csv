@@ -1,0 +1,21 @@
+customer_id,customer_name,email,phone_primary,phone_secondary,city,country,created_date,purchase_amount
+C001,John Smith,john.smith@email.com,555-0101,NULL,Boston,USA,1/15/2024,52
+C001,John Smith,john.smith@email.com,555-0101,NULL,Boston,USA,3/22/2024,52
+C002,Sarah Khan,sarah@company.com,555-0202,555-9999,Austin,usa,2/10/2024,58
+C002,Sarah K.,sarah.k@company.com,555-0202,555-9999,Austin,United States,2/11/2024,58
+C003,Wei Zhang,wei.zhang@corp.io,NULL,555-0303,Seattle,US,1/20/2024,89.99
+C004,Maria Garcia,maria@example.net,555-0404,NULL,NULL,U.S.A.,3/5/2024,42.8
+C005,Liam O'Brien,liam@test.co,NULL,NULL,Denver,UK,1/8/2024,34.5
+C005,Liam O'Brien,liam@test.co,NULL,NULL,Denver,UK,2/14/2024,34.5
+C006,Priya Patel,priya.p@biz.com,555-0606,555-1111,NULL,United Kingdom,4/1/2024,310.99
+C007,James Wilson,NULL,555-0707,NULL,Chicago,Great Britain,2/28/2024,47
+C008,Anna Müller,anna@europe.de,NULL,555-0808,Berlin,Germany,1/30/2024,120
+C009,Carlos Rivera,carlos@mx.co,555-0909,NULL,NULL,Mexico,3/18/2024,67.25
+C010,Fatima Al-Hassan,fatima@uae.ae,555-1010,555-2020,Dubai,UAE,2/22/2024,125.75
+C010,Fatima Al-Hassan,fatima@uae.ae,555-1010,555-2020,Dubai,United Arab Emirates,3/10/2024,125.75
+C011,Tom Baker,tom.baker@email.com,555-1111,NULL,London,UK,1/12/2024,95
+C012,Yuki Tanaka,NULL,NULL,555-1212,Tokyo,Japan,3/25/2024,180.5
+C013,Emma Brown,emma.b@outlook.com,555-1313,NULL,Manchester,united kingdom,4/5/2024,63.2
+C014,Noah Davis,noah@startup.io,NULL,NULL,NULL,US,2/7/2024,29.99
+C015,Olivia Lee,olivia.lee@corp.com,555-1515,555-3030,Toronto,Canada,1/25/2024,210
+C016,Ethan Clark,ethan.c@mail.com,555-1616,NULL,NULL,UNITED STATES,3/14/2024,145
